@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T15:01:34.211Z" agent="5.0 (X11)" etag="SWeZhy5-NfmdyTwHIsIQ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T15:02:08.543Z" agent="5.0 (X11)" etag="NUw8iLNAG8HE02AjGYPc" version="20.5.3" type="github">
   <diagram id="O3wNKDD1lUXgeWde-NUR" name="Página-1">
     <mxGraphModel dx="1391" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="IE4qeNuK4Rb42Me9FoqS-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="IE4qeNuK4Rb42Me9FoqS-54" target="IE4qeNuK4Rb42Me9FoqS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IE4qeNuK4Rb42Me9FoqS-54" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="IE4qeNuK4Rb42Me9FoqS-54" value="&lt;b&gt;Roteador da Operadora&lt;/b&gt;" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="460" width="74" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IE4qeNuK4Rb42Me9FoqS-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="IE4qeNuK4Rb42Me9FoqS-55" target="IE4qeNuK4Rb42Me9FoqS-54">
