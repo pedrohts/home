@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T16:34:58.084Z" agent="5.0 (X11)" etag="4p2O6NoCphnQE5GktmVE" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-18T18:36:06.825Z" agent="5.0 (X11)" etag="wwXj2I-eJzeGLX-CG_a0" version="20.5.3" type="github" pages="2">
   <diagram id="O3wNKDD1lUXgeWde-NUR" name="Página-1">
     <mxGraphModel dx="1391" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -341,7 +341,13 @@
           <mxGeometry x="570" y="260" width="60" height="680" as="geometry" />
         </mxCell>
         <mxCell id="ulEAJNAvwQotdh2rTxy--68" value="&lt;b&gt;Atribuir novo Gateway Padrão no Coletor&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=15;fillColor=#fff2cc;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="710" y="540" width="220" height="70" as="geometry" />
+          <mxGeometry x="720" y="530" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w6q9loboMhG1BF6-V82q-1" value="&lt;b&gt;Adicionar&lt;/b&gt;&lt;b&gt; Rotas estáticas para os Servidores SIGDEMs&lt;/b&gt;&lt;div&gt;&lt;b&gt;na interface Local via Gateway localizado nesse segmento de rede.&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=15;fillColor=#fff2cc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="760" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w6q9loboMhG1BF6-V82q-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;shadow=1;glass=0;sketch=1;strokeColor=#FF0000;fontSize=15;fillColor=#FF0000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="650" width="58.5" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
