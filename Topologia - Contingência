@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T11:56:22.329Z" agent="5.0 (X11)" etag="Idayn2Fr3cWmF30tplON" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-25T11:57:15.363Z" agent="5.0 (X11)" etag="gGBEVKmXkXha_6p81Iqq" version="20.5.3" type="github" pages="3">
   <diagram id="O3wNKDD1lUXgeWde-NUR" name="Página-1">
     <mxGraphModel dx="1182" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -376,7 +376,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gqdXY8vBfHrAwLaiKlHf-45" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;Docker Containers&lt;/b&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=15;fillColor=#fff2cc;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="250" width="410" height="60" as="geometry" />
+          <mxGeometry x="340" y="250" width="390" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gqdXY8vBfHrAwLaiKlHf-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Database Postgres&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="414" width="49.5" height="90" as="geometry" />
@@ -458,6 +458,9 @@
         </mxCell>
         <mxCell id="0usLGIFeh5a21aOhDr5o-4" value="&lt;b&gt;Porta de acesso &lt;br&gt;à Aplicação&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="10" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0usLGIFeh5a21aOhDr5o-9" value="Servidor Hospedeiro" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="660" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
