@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T13:56:01.187Z" agent="5.0 (Windows)" etag="D5SCwyNxi80R3Qjc7irB" version="20.6.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-12-12T13:56:19.428Z" agent="5.0 (Windows)" etag="DipSKuWCS-74ewyglJhH" version="20.6.0" type="github" pages="10">
   <diagram id="JePquAR4NEEVyhdBJv81" name="Docker">
     <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1449,7 +1449,7 @@
         <mxCell id="BIJSF1k3n-FQLH5w06OE-36" value="&lt;br&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 100%&quot;&gt;&lt;strong&gt;172.21.176.42&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0000CC;" parent="BIJSF1k3n-FQLH5w06OE-1" vertex="1">
           <mxGeometry x="100" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BIJSF1k3n-FQLH5w06OE-37" value="&lt;strong&gt;Rede:&lt;br&gt;x172.21.176.40/29&lt;/strong&gt;" style="shape=display;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="BIJSF1k3n-FQLH5w06OE-1" vertex="1">
+        <mxCell id="BIJSF1k3n-FQLH5w06OE-37" value="&lt;strong&gt;Rede:&lt;br&gt;172.21.176.40/29&lt;/strong&gt;" style="shape=display;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="BIJSF1k3n-FQLH5w06OE-1" vertex="1">
           <mxGeometry x="220" y="470" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BIJSF1k3n-FQLH5w06OE-38" value="&lt;br&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 100%&quot;&gt;&lt;strong&gt;172.21.128.10&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0000CC;" parent="BIJSF1k3n-FQLH5w06OE-1" vertex="1">
